@@ -13,7 +13,7 @@ Setup and run MQTT server ([mosquitto](https://mosquitto.org/) is the easiest on
 
 1. Clone or download this repository
 ```
-git clone https://github.com/stas-demydiuk/ewpe-smart-mqtt
+git clone https://github.com/xenomes/ewpe-smart-mqtt
 ```
 2. Install dependencies
 ```
